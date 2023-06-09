@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Ogbomida-Daniel
-- 👀 I’m interested in graphic design, web development and software development 
-- 🌱 I’m currently learning UI/UX
-- 💞️ I’m looking to collaborate on web development and software development 
-- 📫 Reach me at ogbomidadanny@gmail.com
+- 👀 I’m interested in cybersecurity, data science and ui/ux design
+- 📫 Reach me at https://linktr.ee/D.a.n.i.e.ll
 
 <!---
 Ogbomida-Daniel/Ogbomida-Daniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
